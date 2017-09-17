@@ -1,2 +1,2 @@
-# posbl.github.io
+# POSBL.github.io
 An open source website
