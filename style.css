@@ -1,1 +1,47 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
 
+
+
+
+
+
+/* ----------------------- */
+/* Navigation              */
+/* ----------------------- */
+
+.topNav {
+    width: 90%;
+    margin: auto;
+}
+.navLogo {
+    width: 10%;
+    display: inline;
+}
+.navUl {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav ul li {
+    float: right;
+}
+
+.navLink {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navLink:hover {
+    background-color: #111;
+}
